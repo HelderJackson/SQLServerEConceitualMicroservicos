@@ -1,0 +1,3 @@
+-- CRIAÇÃO DO BANCO
+CREATE DATABASE DBConsorcio;
+
